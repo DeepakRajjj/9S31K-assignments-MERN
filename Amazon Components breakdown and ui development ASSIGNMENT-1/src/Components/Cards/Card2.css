@@ -1,0 +1,15 @@
+.card-card2{
+    background-color: #fff;
+    padding: 5px;
+    margin: 10px 27px 10px 10px;
+}
+
+.item-card2{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 15px;
+}
+
+.item-card2>img{
+    width: 300px;
+}
